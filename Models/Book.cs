@@ -1,4 +1,4 @@
-﻿namespace Library.Pg
+﻿namespace Library.Pg.Models
 {
     internal class Book
     {
