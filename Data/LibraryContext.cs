@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore.Diagnostics;
 using Microsoft.Extensions.Logging;
 
-namespace Library.Pg
+namespace Library.Pg.Data
 {
     internal class LibraryContext : DbContext
     {

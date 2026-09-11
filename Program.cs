@@ -1,4 +1,5 @@
 ﻿using Library.Pg;
+using Library.Pg.Data;
 using Microsoft.EntityFrameworkCore;
 
 public static class Program
